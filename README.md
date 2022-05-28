@@ -1,2 +1,2 @@
-# LTL_to_GBA
-Linear Temporal Logic translator to Generalized Büchi Automata.
+# 𝝋 ⇝ 𝒜
+Linear Temporal Logic compiler to Generalized Büchi Automata.
